@@ -1,0 +1,4 @@
+This is a sample text file
+This line has apostrophe's??
+This line has different apostrophe’s??
+You're weird
